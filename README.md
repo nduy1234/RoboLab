@@ -122,7 +122,7 @@ Show:
 The live rover camera.
 A mirror of the rack panel.
 A mini-map of the rover's pose between HOME and RACK_B.
-The mission queue with priorities, the current step x/5, and a "👻 possessed by db-agent" badge.
+The mission queue with priorities, the current step x/5, and a possessed by db-agent" badge.
 The Relay feed, showing every message between oncall, db-agent, network-agent, and rover, grouped by thread.
 Rejections in red, e.g. "REJECTED: rover is possessed by db-agent".
 The latest ticket card with its evidence photo.
